@@ -186,6 +186,9 @@ Display the contact email address set in the configuration file.
 </p>
 
 <hr/>
+<h2 id="register"><a href="https://calendar.lib.ku.edu/calendar/CIC/git" target="_blank">Register Here</a></h2>
+
+<hr/>
 
 {% comment %}
 SCHEDULE
